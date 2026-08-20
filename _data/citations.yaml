@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.proci.2022.08.004
+  title: Effect of injection dynamics on detonation wave propagation in a linear detonation
+    combustor
+  authors:
+  - Aaron Lemcherfi
+  - Rohan M. Gejji
+  - Zachary M. Ayers
+  - Ethan W. Plaehn
+  - H. Douglas Perkins
+  - Sukesh Roy
+  - Terrence R. Meyer
+  - Christopher A. Fugger
+  - Carson D. Slabaugh
+  publisher: Proceedings of the Combustion Institute
+  date: '2023-01-01'
+  link: https://doi.org/gt4bhd
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2514/1.B38868
   title: Variably Premixed Rotating Detonation Engine for Evaluation of Detonation
     Cycle Dynamics
@@ -11,9 +29,8 @@
   publisher: Journal of Propulsion and Power
   date: '2023-05-01'
   link: https://doi.org/hcgcg7
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.combustflame.2022.112209
   title: Simultaneous 100-kHz acetone planar laser-induced fluorescence and OH* chemiluminescence
     in a linear non-premixed detonation channel
@@ -30,9 +47,8 @@
   publisher: Combustion and Flame
   date: '2022-10-01'
   link: https://doi.org/hcgcg8
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.combustflame.2022.112013
   title: On the effects of reactant stratification and wall curvature in non-premixed
     rotating detonation combustors
@@ -49,64 +65,137 @@
   publisher: Combustion and Flame
   date: '2022-06-01'
   link: https://doi.org/gt4bg7
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  plugin: sources.py
+  file: sources.yaml
+- title: Reactant Mixing Effects in Rotating Detonation Engines
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Z. M. Ayers
+  type: dissertation
+  university: Purdue University
+  city: West Lafayette, Indiana
+  date: '2023-05-01'
+  link: https://www.proquest.com/docview/3265662599?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2514/6.2023-1876
+  title: "Effects of Nitrogen Dilution on Detonation Wave Physics in a H\n       \
+    \             <sub>2</sub>\n                    -Air Non-premixed Rotating Detonation\
+    \ Combustors"
+  authors:
+  - Robert B. Wang
+  - Venkat Athmanathan
+  - Austin M. Webb
+  - Sahaj Patel
+  - James Braun
+  - Zach Ayers
+  - Christopher A. Fugger
+  - Terrence R. Meyer
+  publisher: AIAA SCITECH 2023 Forum
+  date: '2023-01-19'
+  link: https://doi.org/hcgcq8
+  plugin: sources.py
+  file: sources.yaml
+- title: Advanced Diagnostics for Megahertz Imaging of Mixing, Fuel Spray, and Combustion
+    Processes for Rotating Detonation Combustors
+  authors:
+  - Fugger, C
+  - Jiang, N
+  - Hsu, P
+  - Slipchenko, M
+  - Roy, S
+  - Perkins, H D
+  - Meyer, T R
+  - Slabaugh, C D
+  - Paniagua, G
+  - Athmanathan, V
+  - Webb, A M
+  - Ayers, Z
+  - Hoeper, M W
+  - Wang, R B
+  - Lemcherfi, A
+  - Geiji, R M
+  - Plaehn, E W
+  - Braun, J
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  date: '2022-12-05'
+  conference: JANNAF Liquid Propulsion Systems Meeting
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.2514/6.2022-1261
+  title: Design and Operability of a Variably Premixed Rotating Detonation Engine
+    for the Evaluation of Mixing Effects
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Zach Ayers
+  - Venkat Athmanathan
+  - Daniel E. Paxson
+  - Terrence R. Meyer
+  publisher: AIAA SCITECH 2022 Forum
+  date: '2022-01-03'
+  link: https://doi.org/hcgcq9
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.2514/6.2021-0554
+  title: Application of 100 kHz Acetone-PLIF for the Investigation of Mixing Dynamics
+    in a Self-Excited Linear Detonation Channel
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Zach Ayers
+  - Aaron I. Lemcherfi
+  - Ethan Plaehn
+  - Carson D. Slabaugh
+  - Terrence R. Meyer
+  - Christopher A. Fugger
+  - Sukesh Roy
+  publisher: AIAA Scitech 2021 Forum
+  date: '2021-01-04'
+  link: https://doi.org/hcgcrb
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.2514/6.2020-1178
+  title: Detonation structure evolution in an optically-accessible non-premixed H<sub>2</sub>-Air
+    RDC using MHz rate imaging
+  authors:
+  - Venkat Athmanathan
+  - James Braun
+  - Zach Ayers
+  - Jordan Fisher
+  - Christopher A. Fugger
+  - Sukesh Roy
+  - Guillermo Paniagua
+  - Terrence R. Meyer
+  publisher: AIAA Scitech 2020 Forum
+  date: '2020-01-05'
+  link: https://doi.org/hcgcrc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2514/6.2019-4041
+  title: Turbine-integrated High-pressure Optical RDE (THOR) for injection and detonation
+    dynamics assessment
+  authors:
+  - Venkat Athmanathan
+  - Jordan M. Fisher
+  - Zach Ayers
+  - David G. Cuadrado
+  - Valeria Andreoli
+  - James Braun
+  - Terrence Meyer
+  - Guillermo Paniagua
+  - Christopher A. Fugger
+  - Sukesh Roy
+  publisher: AIAA Propulsion and Energy 2019 Forum
+  date: '2019-08-16'
+  link: https://doi.org/hcgcrd
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.2514/6.2019-2103
+  title: kHz-Rate Temperature Imaging Using Time-Domain Thermographic Phosphorescence
+  authors:
+  - Zach Ayers
+  - Jordan Fisher
+  - Alex Brown
+  - Steven F. Son
+  - Terrence R. Meyer
+  publisher: AIAA Scitech 2019 Forum
+  date: '2019-01-06'
+  link: https://doi.org/gjjxjw
   plugin: sources.py
   file: sources.yaml
