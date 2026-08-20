@@ -2,7 +2,7 @@
 ---
 
 # IMPACT Lab
-## Innovative Mission-drive Propulsion and Combustion Technologies
+## Innovative Mission-drive Propulsion and Combustion Technologies Laboratory
 
 At the IMPACT lab, led by Professor Zachary (Zach) Ayers at the University of South Florida, we believe in pushing the boundaries of propulsion and combustion technology by applying scientific research to solve the challenges that real designers face. We start and end with mission requirements in mind to deliver new insights and designs that matter in the field.
 
