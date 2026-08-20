@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Meet our team of motivated contributors that are breaking new ground in combustion and propulsion research.
 
 {% include section.html %}
 
@@ -18,10 +16,16 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We're a small, growing team that's looking for new student members. Interested in making a difference in combustion technology through scientific discovery? Contact us using [this form](https://forms.gle/3MmBKwLqC3hhEVdH6).
 
+{%
+  include button.html
+  type="link"
+  text="Join Our Team"
+  link="https://forms.gle/3MmBKwLqC3hhEVdH6"
+%}
+
+{% comment %}
 {% include section.html %}
 
 {% capture content %}
@@ -33,3 +37,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+{% endcomment %}
