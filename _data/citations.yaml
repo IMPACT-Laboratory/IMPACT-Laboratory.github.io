@@ -70,11 +70,12 @@
 - title: Reactant Mixing Effects in Rotating Detonation Engines
   authors:
   - Z. M. Ayers
-  type: dissertation
-  university: Purdue University
+  type: paper
+  publisher: Purdue University
   city: West Lafayette, Indiana
   date: '2023-05-01'
   link: https://www.proquest.com/docview/3265662599?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+  id: ''
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2023-1876
@@ -118,7 +119,7 @@
   - Braun, J
   type: paper
   date: '2022-12-05'
-  conference: JANNAF Liquid Propulsion Systems Meeting
+  publisher: JANNAF Liquid Propulsion Systems Meeting
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2022-1261
