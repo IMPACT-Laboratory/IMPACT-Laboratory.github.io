@@ -3,8 +3,8 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # zachayers70-commits's Website
+  # IMPACT-Laboratory's Website
 
-  Visit **[zachayers70-commits.github.io/IMPACT-Lab](https://zachayers70-commits.github.io/IMPACT-Lab)** 🚀
+  Visit **[impact-laboratory.github.io](https://impact-laboratory.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
