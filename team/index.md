@@ -14,7 +14,7 @@ I'm looking to hire the founding students for the lab. Come push the boundaries 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/ZachHeadshot.jpeg" dark=true %}
+{% include section.html background="images/PRDE_Hotfire.jpeg" dark=true %}
 
 We're a small, growing team that's looking for new student members. Interested in making a difference in combustion technology through scientific discovery? Contact us using the link below.
 
