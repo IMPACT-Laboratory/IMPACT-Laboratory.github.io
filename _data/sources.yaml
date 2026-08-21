@@ -20,7 +20,7 @@
   image: https://ars.els-cdn.com/content/image/X15407489.jpg
 
 - id: doi:10.2514/1.B38868
-  image: https://arc.aiaa.org/cms/10.2514/jpp.2026.42.issue-4/asset/16a4a759-1416-4a75-7141-a4a75971416a/cover.png
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw2Qri6BFM7Ykt7v4uZUIyOEraPs9PaGW7DuTYWeKNQ&s
 
 - id: doi:10.1016/j.combustflame.2022.112209
   image: https://ars.els-cdn.com/content/image/X00102180.jpg
@@ -37,7 +37,7 @@
   date: 2023-05-01
   link: https://www.proquest.com/docview/3265662599?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
   id: ""
-  image: ../images/PhaseAvgOH_AllG.pdf
+  image: images/PhaseAvgOH_AllG.pdf
 
 - id: doi:10.2514/6.2023-1876
   image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
@@ -65,6 +65,7 @@
   type: paper
   date: 2022-12-05
   publisher: JANNAF Liquid Propulsion Systems Meeting
+  image: https://www.jannaf.org/sites/default/files/JANNAF_logo_web.png
 
 - id: doi:10.2514/6.2022-1261
   image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
