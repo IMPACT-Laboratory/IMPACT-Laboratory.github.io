@@ -28,12 +28,13 @@ Our approach is built on a strong foundation of published research, using advanc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Figure10.pdf"
   link="research"
   title="Our Research"
   text=text
 %}
 
+{% comment %}
 {% capture text %}
 
 See what we're doing now to change the future of aerospace and power generation.
@@ -58,10 +59,11 @@ See what we're doing now to change the future of aerospace and power generation.
   style="bare"
   text=text
 %}
+{% endcomment %}
 
 {% capture text %}
 
-See the people who make it all possible.
+We're currently recruiting our founding lab members. See our team page for a link to apply.
 
 {%
   include button.html
@@ -76,7 +78,7 @@ See the people who make it all possible.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ZachHeadshot.jpeg"
   link="team"
   title="Our Team"
   text=text
