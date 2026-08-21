@@ -42,7 +42,7 @@
 
   <nav>
     {% assign pages = site.pages
-      | where_exp: "page", "page.nav"
+      | where_exp: "page", "page.nav and page.published != false"
       | sort: "nav.order"
     %}
     {% for page in pages %}
