@@ -80,7 +80,7 @@
   date: '2023-05-01'
   link: https://www.proquest.com/docview/3265662599?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
   id: ''
-  image: PhaseAvgOH_AllG.pdf
+  image: ../images/PhaseAvgOH_AllG.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2023-1876
@@ -99,7 +99,7 @@
   publisher: AIAA SCITECH 2023 Forum
   date: '2023-01-19'
   link: https://doi.org/hcgcq8
-  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
+  image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
   plugin: sources.py
   file: sources.yaml
 - title: Advanced Diagnostics for Megahertz Imaging of Mixing, Fuel Spray, and Combustion
@@ -139,7 +139,7 @@
   publisher: AIAA SCITECH 2022 Forum
   date: '2022-01-03'
   link: https://doi.org/hcgcq9
-  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
+  image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2021-0554
@@ -156,7 +156,7 @@
   publisher: AIAA Scitech 2021 Forum
   date: '2021-01-04'
   link: https://doi.org/hcgcrb
-  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
+  image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.2514/6.2020-1178
@@ -174,7 +174,7 @@
   publisher: AIAA Scitech 2020 Forum
   date: '2020-01-05'
   link: https://doi.org/hcgcrc
-  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
+  image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2019-4041
@@ -194,7 +194,7 @@
   publisher: AIAA Propulsion and Energy 2019 Forum
   date: '2019-08-16'
   link: https://doi.org/hcgcrd
-  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
+  image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.2514/6.2019-2103
@@ -208,6 +208,6 @@
   publisher: AIAA Scitech 2019 Forum
   date: '2019-01-06'
   link: https://doi.org/gjjxjw
-  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
+  image: https://aiaa.org/wp-content/uploads/2024/12/aiaa-logo-crop.jpg
   plugin: sources.py
   file: sources.yaml
