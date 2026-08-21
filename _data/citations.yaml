@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.proci.2022.08.004
+  title: Effect of injection dynamics on detonation wave propagation in a linear detonation
+    combustor
+  authors:
+  - Aaron Lemcherfi
+  - Rohan M. Gejji
+  - Zachary M. Ayers
+  - Ethan W. Plaehn
+  - H. Douglas Perkins
+  - Sukesh Roy
+  - Terrence R. Meyer
+  - Christopher A. Fugger
+  - Carson D. Slabaugh
+  publisher: Proceedings of the Combustion Institute
+  date: '2023-01-01'
+  link: https://doi.org/gt4bhd
+  image: https://ars.els-cdn.com/content/image/X15407489.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2514/1.B38868
   title: Variably Premixed Rotating Detonation Engine for Evaluation of Detonation
     Cycle Dynamics
@@ -11,28 +30,9 @@
   publisher: Journal of Propulsion and Power
   date: '2023-05-01'
   link: https://doi.org/hcgcg7
-  orcid: 0000-0001-7179-6120
+  image: https://arc.aiaa.org/cms/10.2514/jpp.2026.42.issue-4/asset/16a4a759-1416-4a75-7141-a4a75971416a/cover.png
   plugin: sources.py
   file: sources.yaml
-- title: Effect of injection dynamics on detonation wave propagation in a linear detonation
-    combustor
-  publisher: Proceedings of the Combustion Institute
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Effects of Nitrogen Dilution on Detonation Wave Physics in a H2-Air Non-premixed
-    Rotating Detonation Combustors
-  publisher: AIAA SCITECH 2023 Forum
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Reactant mixing effects in rotating detonation engines
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.combustflame.2022.112209
   title: Simultaneous 100-kHz acetone planar laser-induced fluorescence and OH* chemiluminescence
     in a linear non-premixed detonation channel
@@ -49,7 +49,7 @@
   publisher: Combustion and Flame
   date: '2022-10-01'
   link: https://doi.org/hcgcg8
-  orcid: 0000-0001-7179-6120
+  image: https://ars.els-cdn.com/content/image/X00102180.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.combustflame.2022.112013
@@ -68,73 +68,6 @@
   publisher: Combustion and Flame
   date: '2022-06-01'
   link: https://doi.org/gt4bg7
-  orcid: 0000-0001-7179-6120
-  plugin: sources.py
-  file: sources.yaml
-- title: Advanced Diagnostics for Megahertz Imaging of Mixing, Fuel Spray, and Combustion
-    Processes for Rotating Detonation Combustors
-  publisher: JANNAF Liquid Propulsion Systems Meeting
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Design and operability of a variably premixed rotating detonation engine
-    for the evaluation of mixing effects
-  publisher: AIAA SCITECH 2022 Forum
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Application of 100 kHz acetone-PLIF for the investigation of mixing dynamics
-    in a self-excited linear detonation channel
-  publisher: AIAA Scitech 2021 Forum
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Detonation structure evolution in an optically-accessible non-premixed H2-Air
-    RDC using MHz rate imaging
-  publisher: AIAA SciTech 2020 Forum
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Development of a turbine-integrated high-pressure optical RDE (THOR) for
-    time-resolved fluid dynamic measurements using high-speed optical diagnostics
-  publisher: AIAA Propulsion Energy 2019 Forum
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Turbine-integrated High-pressure Optical RDE (THOR) for injection and detonation
-    dynamics assessment
-  publisher: AIAA Propulsion and Energy 2019 Forum
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- title: kHz-Rate Temperature Imaging Using Time-Domain Thermographic Phosphorescence
-  publisher: AIAA Scitech 2019 Forum
-  date: '2026-08-21'
-  orcid: 0000-0001-7179-6120
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.proci.2022.08.004
-  title: Effect of injection dynamics on detonation wave propagation in a linear detonation
-    combustor
-  authors:
-  - Aaron Lemcherfi
-  - Rohan M. Gejji
-  - Zachary M. Ayers
-  - Ethan W. Plaehn
-  - H. Douglas Perkins
-  - Sukesh Roy
-  - Terrence R. Meyer
-  - Christopher A. Fugger
-  - Carson D. Slabaugh
-  publisher: Proceedings of the Combustion Institute
-  date: '2023-01-01'
-  link: https://doi.org/gt4bhd
   image: https://ars.els-cdn.com/content/image/X00102180.jpg
   plugin: sources.py
   file: sources.yaml
@@ -147,6 +80,7 @@
   date: '2023-05-01'
   link: https://www.proquest.com/docview/3265662599?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
   id: ''
+  image: PhaseAvgOH_AllG.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2023-1876
@@ -165,6 +99,7 @@
   publisher: AIAA SCITECH 2023 Forum
   date: '2023-01-19'
   link: https://doi.org/hcgcq8
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
   plugin: sources.py
   file: sources.yaml
 - title: Advanced Diagnostics for Megahertz Imaging of Mixing, Fuel Spray, and Combustion
@@ -204,6 +139,7 @@
   publisher: AIAA SCITECH 2022 Forum
   date: '2022-01-03'
   link: https://doi.org/hcgcq9
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2021-0554
@@ -220,6 +156,7 @@
   publisher: AIAA Scitech 2021 Forum
   date: '2021-01-04'
   link: https://doi.org/hcgcrb
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.2514/6.2020-1178
@@ -237,6 +174,7 @@
   publisher: AIAA Scitech 2020 Forum
   date: '2020-01-05'
   link: https://doi.org/hcgcrc
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/6.2019-4041
@@ -256,6 +194,7 @@
   publisher: AIAA Propulsion and Energy 2019 Forum
   date: '2019-08-16'
   link: https://doi.org/hcgcrd
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.2514/6.2019-2103
@@ -269,5 +208,6 @@
   publisher: AIAA Scitech 2019 Forum
   date: '2019-01-06'
   link: https://doi.org/gjjxjw
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
   plugin: sources.py
   file: sources.yaml
