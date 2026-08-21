@@ -17,13 +17,16 @@
 #  repo: greenelab/meta-review
 
 - id: doi:10.1016/j.proci.2022.08.004
-  image: https://ars.els-cdn.com/content/image/X00102180.jpg
+  image: https://ars.els-cdn.com/content/image/X15407489.jpg
 
 - id: doi:10.2514/1.B38868
+  image: https://arc.aiaa.org/cms/10.2514/jpp.2026.42.issue-4/asset/16a4a759-1416-4a75-7141-a4a75971416a/cover.png
 
 - id: doi:10.1016/j.combustflame.2022.112209
+  image: https://ars.els-cdn.com/content/image/X00102180.jpg
 
 - id: doi:10.1016/j.combustflame.2022.112013
+  image: https://ars.els-cdn.com/content/image/X00102180.jpg
 
 - title: Reactant Mixing Effects in Rotating Detonation Engines
   authors:
@@ -34,8 +37,10 @@
   date: 2023-05-01
   link: https://www.proquest.com/docview/3265662599?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
   id: ""
+  image: PhaseAvgOH_AllG.pdf
 
 - id: doi:10.2514/6.2023-1876
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
 
 - title: Advanced Diagnostics for Megahertz Imaging of Mixing, Fuel Spray, and Combustion Processes for Rotating Detonation Combustors
   authors:
@@ -62,14 +67,19 @@
   publisher: JANNAF Liquid Propulsion Systems Meeting
 
 - id: doi:10.2514/6.2022-1261
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
 
 - id: doi:10.2514/6.2021-0554
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
 
 - id: 10.2514/6.2020-1178
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
 
 - id: doi:10.2514/6.2019-4041
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
 
 - id: 10.2514/6.2019-2103
+  image: https://aiaa.org/wp-content/uploads/2024/10/logo.png
 
 
 
