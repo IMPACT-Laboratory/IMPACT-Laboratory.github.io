@@ -17,6 +17,7 @@
 #  repo: greenelab/meta-review
 
 - id: doi:10.1016/j.proci.2022.08.004
+  image: https://ars.els-cdn.com/content/image/X00102180.jpg
 
 - id: doi:10.2514/1.B38868
 

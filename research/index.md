@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our team publishes research to advance the state of the art in combustion and propulsion technology. See our list of contributions to the field here.
+Our team publishes research to advance the state of the art in combustion and propulsion technology. Publications to-date have focused on experimental rotating detonation engine measurements using high-speed optical and laser diagnostic techniques. See our list of contributions to the field here.
 
 {% include section.html %}
 

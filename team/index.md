@@ -7,16 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Meet our team of motivated contributors that are breaking new ground in combustion and propulsion research.
+I'm looking to hire the founding students for the lab. Come push the boundaries of propulsion and combustion technology using the link at the bottom of the page.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/ZachHeadshot.jpeg" dark=true %}
 
-We're a small, growing team that's looking for new student members. Interested in making a difference in combustion technology through scientific discovery? Contact us using [this form](https://forms.gle/3MmBKwLqC3hhEVdH6).
+We're a small, growing team that's looking for new student members. Interested in making a difference in combustion technology through scientific discovery? Contact us using the link below.
 
 {%
   include button.html
