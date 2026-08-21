@@ -16,6 +16,7 @@
   publisher: Proceedings of the Combustion Institute
   date: '2023-01-01'
   link: https://doi.org/gt4bhd
+  image: https://ars.els-cdn.com/content/image/X00102180.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2514/1.B38868
