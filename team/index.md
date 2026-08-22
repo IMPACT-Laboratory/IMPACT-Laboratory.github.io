@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-I'm looking to hire the founding students for the lab. Come push the boundaries of propulsion and combustion technology using the link at the bottom of the page.
+I'm looking to hire the founding students for the lab. Come change propulsion and combustion technology using the link at the bottom of the page.
 
 {% include section.html %}
 
