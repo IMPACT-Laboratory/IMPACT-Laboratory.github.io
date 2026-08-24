@@ -1,4 +1,5 @@
 ---
+logo: images/ImpactLabLogo2_Full.png
 ---
 
 # Research Focused on What Matters
