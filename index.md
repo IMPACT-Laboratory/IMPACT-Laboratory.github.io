@@ -1,11 +1,12 @@
 ---
+logo: images/ImpactLabLogo2_Full.png
 ---
 
 # Research Focused on What Matters
 
-At the IMPACT lab, led by Professor Zachary (Zach) Ayers at the University of South Florida, we believe in pushing the boundaries of propulsion and combustion technology by applying scientific research to solve the challenges that real designers face. We start and end with mission requirements in mind to deliver new insights and designs that matter in the field.
+At the IMPACT lab, our mission is to pioneer new propulsion and combustion technologies that solve the challenges real designers face through scientific research. Led by Professor Zachary (Zach) Ayers at the University of South Florida, we start and end with operational requirements in mind to deliver new insights and designs that matter in the field.
 
-From systems analysis of high-speed engines to flight trajectory modeling and experimental testing of rotating detonation engines with advanced laser diagnostic measurements, our focus is to use fundamental science to create breakthroughs tied to the application.
+Our analysis of aircraft systems, thermodynamic cycles, and flight trajectories sets the priorities for our experimental and computational study of reacting flows. From unified systems analysis of high-speed aircraft to laser diagnostic measurements in rotating detonation engines, the fundamental science is aimed at impacting the application.
 
 {% include section.html %}
 

@@ -7,14 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-I'm looking to hire the founding students for the lab. Come push the boundaries of propulsion and combustion technology using the link at the bottom of the page.
+I'm looking to hire the founding students for the lab. If you want to work on propulsion and combustion technology that makes a difference, get in touch below.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/PRDE_Hotfire.jpeg" dark=true %}
+{% include section.html background="images/NoImage.jpg" dark=true %}
 
 We're a small, growing team that's looking for new student members. Interested in making a difference in combustion technology through scientific discovery? Contact us using the link below.
 

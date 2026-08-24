@@ -1,10 +1,12 @@
 {% assign image = page.header | default: site.header %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
-{% assign svg = "images/logo.svg" | file_exists %}
-{% assign png = "images/logo.png" | file_exists %}
-{% assign jpg = "images/logo.jpg" | file_exists %}
-{% assign logo = svg | default: png | default: jpg | default: nil %}
+{% assign logo_path = page.logo | default: site.logo | default: "images/ImpactLabLogo2.png" %}
+{% assign logo = logo_path | file_exists %}
+{% assign svg = nil %}
+{% if logo_path contains ".svg" %}
+  {% assign svg = logo %}
+{% endif %}
 
 <header
   class="background"
