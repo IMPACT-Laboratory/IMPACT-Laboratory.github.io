@@ -1,5 +1,6 @@
 # site properties and page defaults
-title: ""
+title: IMPACT Lab
+show-title: false
 subtitle: ""
 description: ""
 logo: images/ImpactLabLogo2.png
